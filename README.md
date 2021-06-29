@@ -1,11 +1,10 @@
-<h3 align="center"> Hi there, I'm Alexander(he/him) 👋</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=brueck1988&show_icons=true&theme=dracula"/>
 </p>
 
 ---
-<h3 align="center">About Me</h3>
-<p align="center">
+<h3 align="left">About Me</h3>
+<p align="left">
   <ul>
     <li>
       💻  Mechanical/Software Engineer
@@ -27,9 +26,9 @@
 
 ---
 
-<h3 align="center">Let's Connect!</h3>
+<h3 align="left">Let's Connect!</h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:brueck1988@gmail.com" target="_blank"><img alt='turing logo' title='turing.edu' height="50" src="/gmail.png"></a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brueck1988/" target="_blank"><img alt='turing logo' title='turing.edu' height="50" src="/linkedin.png"></a> &nbsp;&nbsp;
 </p><br>
