@@ -19,7 +19,7 @@
       🌱  Passionate about the sustainability and the decarbonization of the global economy and leveraging software to make it a reality.
     </li>
         <li>
-       💬 Ask me about TESLA or ANYTHING related to the electrification of transportation or decarbonization of our energy systems.
+       💬 Ask me about TESLA or ANYTHING related to the electrification of transportation or the decarbonization of our energy systems.
     </li>
   </ul>
 </p>
