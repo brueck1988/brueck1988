@@ -7,7 +7,7 @@
 <p align="left">
   <ul>
     <li>
-      💻  Mechanical/Software Engineer
+      💻  Backend Software Engineer | Mechanical Engineer
     </li>
     <li>
         👩🏽‍💻  Back-end engineering student at <a href="https://turing.edu/"> Turing School of Software and Design</a>
