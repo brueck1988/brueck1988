@@ -10,10 +10,10 @@
       💻  Backend Software Engineer | Mechanical Engineer
     </li>
     <li>
-        👩🏽‍💻  Back-end engineering student at <a href="https://turing.edu/"> Turing School of Software and Design</a>
+        👩🏽‍💻  Back-end engineering program graduate at <a href="https://turing.edu/"> Turing School of Software and Design</a>
     </li>
     <li>
-      🛠  Languages and tools include: Ruby, Rails, HTML, CSS, PostgreSQL, Heroku, TravisCI
+      🛠  Languages and tools include: Ruby, Rails, HTML, CSS, PostgreSQL, Heroku, CircleCI, GraphQL
     </li>
     <li>
       🌱  Passionate about the sustainability and the decarbonization of the global economy and leveraging software to make it a reality.
