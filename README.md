@@ -13,6 +13,9 @@
         👩🏽‍💻  Back-end engineering program graduate at <a href="https://turing.edu/"> Turing School of Software and Design</a>
     </li>
     <li>
+        👩🏽‍💻  <a href="https://auburn.edu/"> Auburn University</a> graduate with a B.S. in Mechanical Engineering
+    </li>
+    <li>
       🛠  Languages and tools include: Ruby, Rails, HTML, CSS, PostgreSQL, Heroku, CircleCI, GraphQL
     </li>
     <li>
